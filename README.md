@@ -10,12 +10,15 @@ In this project, we explored the possibilities of utilizing materials as the int
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/neJ9Wnm.jpg)](https://vimeo.com/371625820)
 
 ### Box Integration
+![Image_6](https://i.imgur.com/IWPRtiN.jpg)
 
-![Image_5](https://i.imgur.com/L7CoK8L.jpg)
+
 
 ### Iterations of pneumatic containers
 
-![Image_10](https://i.imgur.com/kbSwXQx.jpg)
+![Image_10 2](https://i.imgur.com/31wWsBp.jpg)
+
+![Image_12 2](https://i.imgur.com/WCfjErW.jpg)
 
 ### Fabric Integration
 
@@ -23,7 +26,8 @@ In this project, we explored the possibilities of utilizing materials as the int
 
 ### Final Prototype
 
-![Image_6](https://i.imgur.com/IWPRtiN.jpg)
+![Image_5](https://i.imgur.com/L7CoK8L.jpg)
+
 
 ### Componets 
 
@@ -47,8 +51,6 @@ Complete drawings, see [release](https://github.com/sarkrui/Puffy-Prototype/rele
 #### Arduino Source 
 
 *(documentation in process...)*
-
-
 
 ### Credit
 
