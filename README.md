@@ -26,7 +26,7 @@ In this project, we explored the possibilities of utilizing materials as the int
 
 ### Final Prototype
 
-![Image_5](https://i.imgur.com/L7CoK8L.jpg)
+![Inner_box_with_teethslots_MDF_4mm-01](https://i.imgur.com/VawWYfn.jpg)
 
 
 ### Componets 
@@ -46,7 +46,7 @@ In this project, we explored the possibilities of utilizing materials as the int
 
 Complete drawings, see [release](https://github.com/sarkrui/Puffy-Prototype/releases/tag/1.0.0). 
 
-![Inner_box_with_teethslots_MDF_4mm-01](https://i.imgur.com/VawWYfn.jpg)
+![Image_5](https://i.imgur.com/L7CoK8L.jpg)
 
 #### Arduino Source 
 
