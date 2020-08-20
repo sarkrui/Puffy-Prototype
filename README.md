@@ -9,10 +9,11 @@ In this project, we explored the possibilities of utilizing materials as the int
 
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/neJ9Wnm.jpg)](https://vimeo.com/371625820)
 
+<details>
+  <summary>Process Details</summary>
+
 ### Box Integration
 ![Image_6](https://i.imgur.com/IWPRtiN.jpg)
-
-
 
 ### Iterations of pneumatic containers
 
@@ -27,6 +28,8 @@ In this project, we explored the possibilities of utilizing materials as the int
 ### Final Prototype
 
 ![Inner_box_with_teethslots_MDF_4mm-01](https://i.imgur.com/VawWYfn.jpg)
+
+</details>
 
 
 ### Componets 
@@ -48,12 +51,12 @@ Complete drawings, see [release](https://github.com/sarkrui/Puffy-Prototype/rele
 
 ![Image_5](https://i.imgur.com/L7CoK8L.jpg)
 
-#### Arduino Source 
+#### [Source code](https://raw.githubusercontent.com/sarkrui/Puffy-Prototype/master/main.cpp)
 
-*(documentation in process...)*
+
 
 ### Credit
 
-This was a highly colaborative design project implemented by a pair of Master students, Bart van Dijk and Sark Xing, at the TU Einhoven. The source code of sensing and actuating was mainly developed by Bart, while the remaining electronics and lasercut integrations were done by Sark; The 6DOF Stewart Platform we built upon was developed by a graduated Ph.D; The pneumatic container was heavily inspired by [PneUI](https://tangible.media.mit.edu/project/pneui/) . 
+This was a highly colaborative design project implemented by a pair of Master students, [Bart van Dijk](https://b-vandijk.nl/) and Sark Xing, at the TU Einhoven. The source code of sensing and actuating was mainly developed by Bart, while the remaining electronics and lasercut integrations were done by Sark; The 6DOF Stewart Platform we built upon was developed by a graduated Ph.D; The pneumatic container was heavily inspired by [PneUI](https://tangible.media.mit.edu/project/pneui/) . 
 
  
