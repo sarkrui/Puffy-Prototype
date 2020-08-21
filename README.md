@@ -31,8 +31,8 @@ In this project, we explored the possibilities of utilizing materials as the int
 
 </details>
 
-
-### Componets 
+<details>
+  <summary>Componets</summary>
 
 | Name  of item                         | Link of item                                                 |
 | ------------------------------------- | ------------------------------------------------------------ |
@@ -45,15 +45,11 @@ In this project, we explored the possibilities of utilizing materials as the int
 | RAL  7040 Paint                       | [Bullstore.nl](https://www.bullstore.nl/motip-industrial-hoogglans-lak-ral-7040-venster-grijs-400-ml?gclid=CjwKCAjw9L_tBRBXEiwAOWVVCdkKp5OsSfEvQ-v0IJHskdACIi9YFVmtFXwTWzOjw34R58_qopee8hoC9Q0QAvD_BwE) |
 | MPR121                                | [Tinytronics.nl](https://www.tinytronics.nl/shop/index.php?route=product/search&search=MPR121) |
 
-#### Lasercut
-
-Complete drawings, see [release](https://github.com/sarkrui/Puffy-Prototype/releases/tag/1.0.0). 
-
+- [Lasercut Drawings](https://github.com/sarkrui/Puffy-Prototype/releases/tag/1.0.0) 
 ![Image_5](https://i.imgur.com/L7CoK8L.jpg)
+- [Source code](https://raw.githubusercontent.com/sarkrui/Puffy-Prototype/master/main.cpp)
 
-#### [Source code](https://raw.githubusercontent.com/sarkrui/Puffy-Prototype/master/main.cpp)
-
-
+</details> 
 
 ### Credit
 
